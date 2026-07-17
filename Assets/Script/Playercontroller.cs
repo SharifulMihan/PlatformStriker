@@ -3,6 +3,7 @@ using UnityEngine;
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
 {
+    //Gulumulu
     [Header("Movement")]
     public float moveSpeed = 5f;
     public float jumpForce = 8f;
