@@ -22,7 +22,7 @@ public class FlagZone : MonoBehaviour
 
     private bool playerInZone;
     private bool ballInZone;
-    private bool consumed;   // true once this flag has handed control to the throw setup
+    private bool consumed;   // guards the just-thrown ball; cleared once it leaves the zone so the flag re-arms
 
     void Reset()
     {
@@ -41,7 +41,14 @@ public class FlagZone : MonoBehaviour
     void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player")) playerInZone = false;
-        if (other.CompareTag("Ball")) ballInZone = false;
+        if (other.CompareTag("Ball"))
+        {
+            ballInZone = false;
+            // The ball leaving is the safe moment to re-arm: a real throw has now cleared
+            // the zone, so re-enabling settle + activation can't kill the launch. Bring the
+            // ball back in (with the player) and the flag works again, every time.
+            consumed = false;
+        }
     }
 
     void FixedUpdate()
