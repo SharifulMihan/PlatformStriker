@@ -55,7 +55,13 @@ public class ThrowController : MonoBehaviour
         isCharging = false;
 
         player.movementLocked = true;
-        player.SnapToPosition(snapPosition);
+
+        // Aim from wherever the player actually stopped instead of teleporting them onto
+        // the flag's pivot (that instant teleport was the visible "snap/jump", and the
+        // vertical pop came from the flag pivot sitting higher than the player's feet).
+        // We still zero the player's velocity so leftover momentum can't nudge the setup.
+        // To restore the old behaviour, pass `snapPosition` here instead.
+        player.SnapToPosition(player.transform.position);
         player.UpdateThrowOriginSide();
 
         // throwOrigin is a child of the player, so it moved along with the snap above.
