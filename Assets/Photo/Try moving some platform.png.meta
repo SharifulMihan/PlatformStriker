@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: a9536e0d12c21944eab1ee95f2da6557
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1204177817734443207
+    second: Try moving some platform_0
+  - first:
+      213: -7382008199924756332
+    second: Try moving some platform_1
+  - first:
+      213: -8935492781326121723
+    second: Try moving some platform_2
+  - first:
+      213: -1591988623036284620
+    second: Try moving some platform_3
+  - first:
+      213: -1042306098345481894
+    second: Try moving some platform_4
+  - first:
+      213: 5319454487778448149
+    second: Try moving some platform_5
+  - first:
+      213: -7986988714428196809
+    second: Try moving some platform_6
+  - first:
+      213: 5794620434637290587
+    second: Try moving some platform_7
+  - first:
+      213: 2905367123010429270
+    second: Try moving some platform_8
+  - first:
+      213: -3375805791123156732
+    second: Try moving some platform_9
+  - first:
+      213: -3564634314468098761
+    second: Try moving some platform_10
+  - first:
+      213: -2147554712780235983
+    second: Try moving some platform_11
+  - first:
+      213: -7520517839024063216
+    second: Try moving some platform_12
+  - first:
+      213: 3433911641759844311
+    second: Try moving some platform_13
+  - first:
+      213: -3681571308858648473
+    second: Try moving some platform_14
+  - first:
+      213: -7397578079594913705
+    second: Try moving some platform_15
+  - first:
+      213: 8526978371591763444
+    second: Try moving some platform_16
+  - first:
+      213: 3004304744453057233
+    second: Try moving some platform_17
+  - first:
+      213: 2937934740247664876
+    second: Try moving some platform_18
+  - first:
+      213: -4343685421896243979
+    second: Try moving some platform_19
+  - first:
+      213: 4233696016196541674
+    second: Try moving some platform_20
+  - first:
+      213: -8398635385736052826
+    second: Try moving some platform_21
+  - first:
+      213: -3027126530842611203
+    second: Try moving some platform_22
+  - first:
+      213: -5464668055877118911
+    second: Try moving some platform_23
+  - first:
+      213: 5242472512891695516
+    second: Try moving some platform_24
+  - first:
+      213: -442057715480994928
+    second: Try moving some platform_25
+  - first:
+      213: 816390287170260422
+    second: Try moving some platform_26
+  - first:
+      213: 2878120962296162636
+    second: Try moving some platform_27
+  - first:
+      213: 4816720327610099813
+    second: Try moving some platform_28
+  - first:
+      213: 643294700087287985
+    second: Try moving some platform_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Try moving some platform_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 36
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c07770685916b010800000000000000
+      internalID: 1204177817734443207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 43
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490d67a57a6dd8990800000000000000
+      internalID: -7382008199924756332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_2
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 63
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5054dfb58a0cef380800000000000000
+      internalID: -8935492781326121723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 43
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431857538ce18e9e0800000000000000
+      internalID: -1591988623036284620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 43
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59e4ec302cf881f0800000000000000
+      internalID: -1042306098345481894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 43
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51354e64caf72d940800000000000000
+      internalID: 5319454487778448149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 43
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7381473c414882190800000000000000
+      internalID: -7986988714428196809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 36
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c76c68590aa6050800000000000000
+      internalID: 5794620434637290587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 43
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651a22d4100f15820800000000000000
+      internalID: 2905367123010429270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d56dc48ab621d0800000000000000
+      internalID: -3375805791123156732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 43
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73df5fb2affd78ec0800000000000000
+      internalID: -3564634314468098761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 63
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b9401fd5a5232e0800000000000000
+      internalID: -2147554712780235983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_12
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 43
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d7bfdeed0c1a790800000000000000
+      internalID: -7520517839024063216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_13
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 43
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d78c2dc174b7af20800000000000000
+      internalID: 3433911641759844311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_14
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768d530866e68ecc0800000000000000
+      internalID: -3681571308858648473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_15
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 43
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750678f3ee5865990800000000000000
+      internalID: -7397578079594913705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f57a2ea6a9e55670800000000000000
+      internalID: 8526978371591763444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_17
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 43
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da25226f3f61b920800000000000000
+      internalID: 3004304744453057233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_18
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8ddb59414a5c820800000000000000
+      internalID: 2937934740247664876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_19
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 36
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4e4d36f1128b3c0800000000000000
+      internalID: -4343685421896243979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_20
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 43
+        width: 11
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec916c781c11ca30800000000000000
+      internalID: 4233696016196541674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_21
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af3d235d9d027b80800000000000000
+      internalID: -8398635385736052826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 43
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df137f6657c7df5d0800000000000000
+      internalID: -3027126530842611203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_23
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 43
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14415023b599924b0800000000000000
+      internalID: -5464668055877118911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_24
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 43
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91b8a389f001c840800000000000000
+      internalID: 5242472512891695516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 43
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd88299de7dd9f0800000000000000
+      internalID: -442057715480994928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_26
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 43
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdccd804a6645b00800000000000000
+      internalID: 816390287170260422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 55
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49a44a24c321f720800000000000000
+      internalID: 2878120962296162636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5686a9d2e9d68d240800000000000000
+      internalID: 4816720327610099813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Try moving some platform_29
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 43
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b028941f117de800800000000000000
+      internalID: 643294700087287985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Try moving some platform_0: 1204177817734443207
+      Try moving some platform_1: -7382008199924756332
+      Try moving some platform_10: -3564634314468098761
+      Try moving some platform_11: -2147554712780235983
+      Try moving some platform_12: -7520517839024063216
+      Try moving some platform_13: 3433911641759844311
+      Try moving some platform_14: -3681571308858648473
+      Try moving some platform_15: -7397578079594913705
+      Try moving some platform_16: 8526978371591763444
+      Try moving some platform_17: 3004304744453057233
+      Try moving some platform_18: 2937934740247664876
+      Try moving some platform_19: -4343685421896243979
+      Try moving some platform_2: -8935492781326121723
+      Try moving some platform_20: 4233696016196541674
+      Try moving some platform_21: -8398635385736052826
+      Try moving some platform_22: -3027126530842611203
+      Try moving some platform_23: -5464668055877118911
+      Try moving some platform_24: 5242472512891695516
+      Try moving some platform_25: -442057715480994928
+      Try moving some platform_26: 816390287170260422
+      Try moving some platform_27: 2878120962296162636
+      Try moving some platform_28: 4816720327610099813
+      Try moving some platform_29: 643294700087287985
+      Try moving some platform_3: -1591988623036284620
+      Try moving some platform_4: -1042306098345481894
+      Try moving some platform_5: 5319454487778448149
+      Try moving some platform_6: -7986988714428196809
+      Try moving some platform_7: 5794620434637290587
+      Try moving some platform_8: 2905367123010429270
+      Try moving some platform_9: -3375805791123156732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

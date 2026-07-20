@@ -1,0 +1,1092 @@
+fileFormatVersion: 2
+guid: 9ccbdc45334d8714ab3b9b8561fc87f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7011850939951950352
+    second: AB move_0
+  - first:
+      213: -4765644086328494229
+    second: AB move_1
+  - first:
+      213: 3924648689183243453
+    second: AB move_2
+  - first:
+      213: 8559918302100912163
+    second: AB move_3
+  - first:
+      213: -6617936359295761318
+    second: AB move_4
+  - first:
+      213: -403048187357887675
+    second: AB move_5
+  - first:
+      213: 818965774660902747
+    second: AB move_6
+  - first:
+      213: 6215689533159720473
+    second: AB move_7
+  - first:
+      213: -2065676443052757708
+    second: AB move_8
+  - first:
+      213: 4570023114598659110
+    second: AB move_9
+  - first:
+      213: 5022967223804057423
+    second: AB move_10
+  - first:
+      213: -8805812199818014165
+    second: AB move_11
+  - first:
+      213: 5746730176249271481
+    second: AB move_12
+  - first:
+      213: 2338793637296579394
+    second: AB move_13
+  - first:
+      213: 9130730908422748901
+    second: AB move_14
+  - first:
+      213: 8571584249603130147
+    second: AB move_15
+  - first:
+      213: -2077987220875176269
+    second: AB move_16
+  - first:
+      213: 1920416022851310672
+    second: AB move_17
+  - first:
+      213: -8185483759666907055
+    second: AB move_18
+  - first:
+      213: 3027087406297615016
+    second: AB move_19
+  - first:
+      213: 4091140793738803123
+    second: AB move_20
+  - first:
+      213: -129656439458549260
+    second: AB move_21
+  - first:
+      213: -4322567227727496348
+    second: AB move_22
+  - first:
+      213: 9210179065158461414
+    second: AB move_23
+  - first:
+      213: 5014139136992509859
+    second: AB move_24
+  - first:
+      213: -6670746932126586500
+    second: AB move_25
+  - first:
+      213: 2711229625717102740
+    second: AB move_26
+  - first:
+      213: 89489481459532951
+    second: AB move_27
+  - first:
+      213: 4909277541872352868
+    second: AB move_28
+  - first:
+      213: -3701068851554318009
+    second: AB move_29
+  - first:
+      213: 4309779885928204835
+    second: AB move_30
+  - first:
+      213: -8439718403989487710
+    second: AB move_31
+  - first:
+      213: -6338854185386599108
+    second: AB move_32
+  - first:
+      213: -5110677852546646710
+    second: AB move_33
+  - first:
+      213: -1236375368078028247
+    second: AB move_34
+  - first:
+      213: 7355096428153888608
+    second: AB move_35
+  - first:
+      213: -610516648202742640
+    second: AB move_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AB move_0
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a23dd87491f4160800000000000000
+      internalID: 7011850939951950352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_1
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67f274f3f70dddb0800000000000000
+      internalID: -4765644086328494229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_2
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc38fa6037277630800000000000000
+      internalID: 3924648689183243453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_3
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 887
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328f617e750fac670800000000000000
+      internalID: 8559918302100912163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_4
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 887
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54c80ec1fd5824a0800000000000000
+      internalID: -6617936359295761318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5430b2d1fc5186af0800000000000000
+      internalID: -403048187357887675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_6
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 887
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f9dd1780d8d5b00800000000000000
+      internalID: 818965774660902747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_7
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 887
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9164912c2b0924650800000000000000
+      internalID: 6215689533159720473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_8
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43da2fe283e3553e0800000000000000
+      internalID: -2065676443052757708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_9
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6243af84fcbfb6f30800000000000000
+      internalID: 4570023114598659110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_10
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f475545c31a25b540800000000000000
+      internalID: 5022967223804057423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_11
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 887
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22db0f95787bc580800000000000000
+      internalID: -8805812199818014165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_12
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 887
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b41b57d5ac70cf40800000000000000
+      internalID: 5746730176249271481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_13
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243a102fb60157020800000000000000
+      internalID: 2338793637296579394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_14
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 887
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eab730726fd6be70800000000000000
+      internalID: 9130730908422748901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_15
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 887
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3238de7f57264f670800000000000000
+      internalID: 8571584249603130147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_16
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b61febd1a18923e0800000000000000
+      internalID: -2077987220875176269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_17
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054550fa230b6aa10800000000000000
+      internalID: 1920416022851310672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_18
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 861
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158335e93e1576e80800000000000000
+      internalID: -8185483759666907055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_19
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa8d6435ff520a20800000000000000
+      internalID: 3027087406297615016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_20
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 861
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b739e840e6a6c830800000000000000
+      internalID: 4091140793738803123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_21
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f13b3fb72e533ef0800000000000000
+      internalID: -129656439458549260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_22
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 772
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bbe8122082304c0800000000000000
+      internalID: -4322567227727496348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 772
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e76288ef0121df70800000000000000
+      internalID: 9210179065158461414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_24
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 746
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af72d2aafcc59540800000000000000
+      internalID: 5014139136992509859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_25
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 746
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c796114220fbc63a0800000000000000
+      internalID: -6670746932126586500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_26
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 746
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981269daf830a520800000000000000
+      internalID: 2711229625717102740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_27
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 746
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7948781953eed3100800000000000000
+      internalID: 89489481459532951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_28
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 746
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eba13f9e1412440800000000000000
+      internalID: 4909277541872352868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_29
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 772
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74987d51d7923acc0800000000000000
+      internalID: -3701068851554318009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_30
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 772
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32acfd8d8f96fcb30800000000000000
+      internalID: 4309779885928204835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_31
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 746
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af31edb3d810ea80800000000000000
+      internalID: -8439718403989487710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_32
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 746
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d980df3bdd708a0800000000000000
+      internalID: -6338854185386599108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_33
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 746
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d308512993319b0800000000000000
+      internalID: -5110677852546646710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_34
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 746
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9229aa0472387dee0800000000000000
+      internalID: -1236375368078028247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_35
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 746
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f5bd08b3d821660800000000000000
+      internalID: 7355096428153888608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AB move_36
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 746
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094d966d7520787f0800000000000000
+      internalID: -610516648202742640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AB move_0: 7011850939951950352
+      AB move_1: -4765644086328494229
+      AB move_10: 5022967223804057423
+      AB move_11: -8805812199818014165
+      AB move_12: 5746730176249271481
+      AB move_13: 2338793637296579394
+      AB move_14: 9130730908422748901
+      AB move_15: 8571584249603130147
+      AB move_16: -2077987220875176269
+      AB move_17: 1920416022851310672
+      AB move_18: -8185483759666907055
+      AB move_19: 3027087406297615016
+      AB move_2: 3924648689183243453
+      AB move_20: 4091140793738803123
+      AB move_21: -129656439458549260
+      AB move_22: -4322567227727496348
+      AB move_23: 9210179065158461414
+      AB move_24: 5014139136992509859
+      AB move_25: -6670746932126586500
+      AB move_26: 2711229625717102740
+      AB move_27: 89489481459532951
+      AB move_28: 4909277541872352868
+      AB move_29: -3701068851554318009
+      AB move_3: 8559918302100912163
+      AB move_30: 4309779885928204835
+      AB move_31: -8439718403989487710
+      AB move_32: -6338854185386599108
+      AB move_33: -5110677852546646710
+      AB move_34: -1236375368078028247
+      AB move_35: 7355096428153888608
+      AB move_36: -610516648202742640
+      AB move_4: -6617936359295761318
+      AB move_5: -403048187357887675
+      AB move_6: 818965774660902747
+      AB move_7: 6215689533159720473
+      AB move_8: -2065676443052757708
+      AB move_9: 4570023114598659110
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

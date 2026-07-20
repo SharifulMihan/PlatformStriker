@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: b96808e83d3ed4c4ab3669ce8aa22845
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2449809036570745814
+    second: redFLoor_0
+  - first:
+      213: 3426802478158661696
+    second: redFLoor_1
+  - first:
+      213: -1938859869325829775
+    second: redFLoor_2
+  - first:
+      213: -4054563526975112059
+    second: redFLoor_3
+  - first:
+      213: 8899697530972334198
+    second: redFLoor_4
+  - first:
+      213: 6677322166976230703
+    second: redFLoor_5
+  - first:
+      213: -2926307555276369046
+    second: redFLoor_6
+  - first:
+      213: -4624745112795220032
+    second: redFLoor_7
+  - first:
+      213: 8717772583886035152
+    second: redFLoor_8
+  - first:
+      213: -6283181925239777233
+    second: redFLoor_9
+  - first:
+      213: -1433029121427241597
+    second: redFLoor_10
+  - first:
+      213: -4501713968058802627
+    second: redFLoor_11
+  - first:
+      213: 2665827074780110277
+    second: redFLoor_12
+  - first:
+      213: -5823329527765000198
+    second: redFLoor_13
+  - first:
+      213: -139640365533712808
+    second: redFLoor_14
+  - first:
+      213: -6953250441286696980
+    second: redFLoor_15
+  - first:
+      213: -4620716281962259198
+    second: redFLoor_16
+  - first:
+      213: -2909023240913347519
+    second: redFLoor_17
+  - first:
+      213: 7011326906089479224
+    second: redFLoor_18
+  - first:
+      213: 4507723345423777974
+    second: redFLoor_19
+  - first:
+      213: -8931616126146346777
+    second: redFLoor_20
+  - first:
+      213: -6925196102700648280
+    second: redFLoor_21
+  - first:
+      213: -5217395443212615778
+    second: redFLoor_22
+  - first:
+      213: 7610339516588723696
+    second: redFLoor_23
+  - first:
+      213: 4509622537364001528
+    second: redFLoor_24
+  - first:
+      213: 5701899399283592599
+    second: redFLoor_25
+  - first:
+      213: 4066859965321953216
+    second: redFLoor_26
+  - first:
+      213: -7891201319786624513
+    second: redFLoor_27
+  - first:
+      213: -5996363061316188535
+    second: redFLoor_28
+  - first:
+      213: -190922230877548110
+    second: redFLoor_29
+  - first:
+      213: -1736388882622967153
+    second: redFLoor_30
+  - first:
+      213: 1192054480992912416
+    second: redFLoor_31
+  - first:
+      213: 5780865619172482063
+    second: redFLoor_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redFLoor_0
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24a8af29a7800ed0800000000000000
+      internalID: -2449809036570745814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_1
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048431aa2b27e8f20800000000000000
+      internalID: 3426802478158661696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_2
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d29ba839c715e0800000000000000
+      internalID: -1938859869325829775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 887
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cb46744fb4bb7c0800000000000000
+      internalID: -4054563526975112059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_4
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678e60670c3128b70800000000000000
+      internalID: 8899697530972334198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_5
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25b575022d9aac50800000000000000
+      internalID: 6677322166976230703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_6
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63d53068caa367d0800000000000000
+      internalID: -2926307555276369046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_7
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7fd17a2da91dfb0800000000000000
+      internalID: -4624745112795220032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_8
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d89a2fe9ffbbf870800000000000000
+      internalID: 8717772583886035152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_9
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289de62457adc8a0800000000000000
+      internalID: -6283181925239777233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_10
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3850a884b9bdc1ce0800000000000000
+      internalID: -1433029121427241597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_11
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ed0754ff2b681c0800000000000000
+      internalID: -4501713968058802627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_12
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd13e0b99beef420800000000000000
+      internalID: 2665827074780110277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_13
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff1687d5a06f2fa0800000000000000
+      internalID: -5823329527765000198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_14
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eae00d3d5ef0ef0800000000000000
+      internalID: -139640365533712808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_15
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef37c44097118f90800000000000000
+      internalID: -6953250441286696980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_16
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d96cde50befdfb0800000000000000
+      internalID: -4620716281962259198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_17
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c110a66c211a7d0800000000000000
+      internalID: -2909023240913347519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_18
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c1a996cac3d4160800000000000000
+      internalID: 7011326906089479224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_19
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b048bdef76ae8e30800000000000000
+      internalID: 4507723345423777974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_20
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e085ea74768c0480800000000000000
+      internalID: -8931616126146346777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_21
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8bb9af5d2c4ef90800000000000000
+      internalID: -6925196102700648280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_22
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ff192cc761897b0800000000000000
+      internalID: -5217395443212615778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_23
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd8362187b5d9960800000000000000
+      internalID: 7610339516588723696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_24
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25da20ec5659e30800000000000000
+      internalID: 4509622537364001528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_25
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dcf4f2b47312f40800000000000000
+      internalID: 5701899399283592599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_26
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfb5406793607830800000000000000
+      internalID: 4066859965321953216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_27
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff946038532dc7290800000000000000
+      internalID: -7891201319786624513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_28
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 861
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98689f9d093a8cca0800000000000000
+      internalID: -5996363061316188535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_29
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 861
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b191d81e35b95df0800000000000000
+      internalID: -190922230877548110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_30
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f821253d28b17e7e0800000000000000
+      internalID: -1736388882622967153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_31
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 861
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024ce741c370b8010800000000000000
+      internalID: 1192054480992912416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redFLoor_32
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 861
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c5b0df6a2c93050800000000000000
+      internalID: 5780865619172482063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      redFLoor_0: -2449809036570745814
+      redFLoor_1: 3426802478158661696
+      redFLoor_10: -1433029121427241597
+      redFLoor_11: -4501713968058802627
+      redFLoor_12: 2665827074780110277
+      redFLoor_13: -5823329527765000198
+      redFLoor_14: -139640365533712808
+      redFLoor_15: -6953250441286696980
+      redFLoor_16: -4620716281962259198
+      redFLoor_17: -2909023240913347519
+      redFLoor_18: 7011326906089479224
+      redFLoor_19: 4507723345423777974
+      redFLoor_2: -1938859869325829775
+      redFLoor_20: -8931616126146346777
+      redFLoor_21: -6925196102700648280
+      redFLoor_22: -5217395443212615778
+      redFLoor_23: 7610339516588723696
+      redFLoor_24: 4509622537364001528
+      redFLoor_25: 5701899399283592599
+      redFLoor_26: 4066859965321953216
+      redFLoor_27: -7891201319786624513
+      redFLoor_28: -5996363061316188535
+      redFLoor_29: -190922230877548110
+      redFLoor_3: -4054563526975112059
+      redFLoor_30: -1736388882622967153
+      redFLoor_31: 1192054480992912416
+      redFLoor_32: 5780865619172482063
+      redFLoor_4: 8899697530972334198
+      redFLoor_5: 6677322166976230703
+      redFLoor_6: -2926307555276369046
+      redFLoor_7: -4624745112795220032
+      redFLoor_8: 8717772583886035152
+      redFLoor_9: -6283181925239777233
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

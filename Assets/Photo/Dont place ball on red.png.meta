@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: bbe5d6ca442968548aa90c83aa8d09e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2664800434639993496
+    second: Dont place ball on red_0
+  - first:
+      213: -9116875717853525777
+    second: Dont place ball on red_1
+  - first:
+      213: 4059268083583939795
+    second: Dont place ball on red_2
+  - first:
+      213: -7712481126206380217
+    second: Dont place ball on red_3
+  - first:
+      213: -2057352544572191123
+    second: Dont place ball on red_4
+  - first:
+      213: -8033592001035647098
+    second: Dont place ball on red_5
+  - first:
+      213: 8960761611208952041
+    second: Dont place ball on red_6
+  - first:
+      213: -6875225498875273659
+    second: Dont place ball on red_7
+  - first:
+      213: -5823648770330644073
+    second: Dont place ball on red_8
+  - first:
+      213: 918155724185262520
+    second: Dont place ball on red_9
+  - first:
+      213: 4132404874616037889
+    second: Dont place ball on red_10
+  - first:
+      213: 1555476583389177864
+    second: Dont place ball on red_11
+  - first:
+      213: 6956684844210300303
+    second: Dont place ball on red_12
+  - first:
+      213: -724675738253092996
+    second: Dont place ball on red_13
+  - first:
+      213: -9013225261652896559
+    second: Dont place ball on red_14
+  - first:
+      213: -7144377710351371991
+    second: Dont place ball on red_15
+  - first:
+      213: -9180735526615011248
+    second: Dont place ball on red_16
+  - first:
+      213: 758553795560427544
+    second: Dont place ball on red_17
+  - first:
+      213: 8852822767148314255
+    second: Dont place ball on red_18
+  - first:
+      213: 7523779768693060504
+    second: Dont place ball on red_19
+  - first:
+      213: -4405434583510181940
+    second: Dont place ball on red_20
+  - first:
+      213: 613791342650504662
+    second: Dont place ball on red_21
+  - first:
+      213: -5079079156424946248
+    second: Dont place ball on red_22
+  - first:
+      213: 2876401133453062663
+    second: Dont place ball on red_23
+  - first:
+      213: -4793414961149195557
+    second: Dont place ball on red_24
+  - first:
+      213: -6690969962246973733
+    second: Dont place ball on red_25
+  - first:
+      213: 1442439405411942300
+    second: Dont place ball on red_26
+  - first:
+      213: -5927427212255275276
+    second: Dont place ball on red_27
+  - first:
+      213: 1630080003660990611
+    second: Dont place ball on red_28
+  - first:
+      213: -1305107255709005545
+    second: Dont place ball on red_29
+  - first:
+      213: -4049418623964510463
+    second: Dont place ball on red_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dont place ball on red_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 63
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8650af79f1ab40bd0800000000000000
+      internalID: -2664800434639993496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8c4ff76d95a7180800000000000000
+      internalID: -9116875717853525777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4f91aa0da655830800000000000000
+      internalID: 4059268083583939795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 76
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74760973743c7f490800000000000000
+      internalID: -7712481126206380217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 63
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e4703d2c0d273e0800000000000000
+      internalID: -2057352544572191123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687c9db83a2f28090800000000000000
+      internalID: -8033592001035647098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 63
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8011195350b5c70800000000000000
+      internalID: 8960761611208952041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed4d4d5da4690a0800000000000000
+      internalID: -6875225498875273659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_8
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7913dc36c4e3e2fa0800000000000000
+      internalID: -5823648770330644073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_9
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9dd8c34c1fdbc00800000000000000
+      internalID: 918155724185262520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 63
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e49bc650495930800000000000000
+      internalID: 4132404874616037889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808a95916b9269510800000000000000
+      internalID: 1555476583389177864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_12
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85af79f10c1b8060800000000000000
+      internalID: 6956684844210300303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 63
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77941c614f61f5f0800000000000000
+      internalID: -724675738253092996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d41a9ee0679ae280800000000000000
+      internalID: -9013225261652896559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 63
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b94133521adc90800000000000000
+      internalID: -7144377710351371991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_16
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 63
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050bd4f1ea9779080800000000000000
+      internalID: -9180735526615011248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 63
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810576778ace68a00800000000000000
+      internalID: 758553795560427544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ead57076b8bda70800000000000000
+      internalID: 8852822767148314255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_19
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 63
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893783146d5d96860800000000000000
+      internalID: 7523779768693060504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_20
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 63
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc797a85690ccd2c0800000000000000
+      internalID: -4405434583510181940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_21
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5b4e069ff948800800000000000000
+      internalID: 613791342650504662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_22
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 63
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd4337da6c7389b0800000000000000
+      internalID: -5079079156424946248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 63
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702300f47970be720800000000000000
+      internalID: 2876401133453062663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_24
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 63
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdac8ab4d7e5a7db0800000000000000
+      internalID: -4793414961149195557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_25
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 56
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6d5750546e423a0800000000000000
+      internalID: -6690969962246973733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_26
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 63
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fba913ff2940410800000000000000
+      internalID: 1442439405411942300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_27
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 63
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f65a85fa5c8dbda0800000000000000
+      internalID: -5927427212255275276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 63
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3984ea570253f9610800000000000000
+      internalID: 1630080003660990611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_29
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 63
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7190ead9dd353ede0800000000000000
+      internalID: -1305107255709005545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dont place ball on red_30
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 63
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1078ebb57339dc7c0800000000000000
+      internalID: -4049418623964510463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dont place ball on red_0: -2664800434639993496
+      Dont place ball on red_1: -9116875717853525777
+      Dont place ball on red_10: 4132404874616037889
+      Dont place ball on red_11: 1555476583389177864
+      Dont place ball on red_12: 6956684844210300303
+      Dont place ball on red_13: -724675738253092996
+      Dont place ball on red_14: -9013225261652896559
+      Dont place ball on red_15: -7144377710351371991
+      Dont place ball on red_16: -9180735526615011248
+      Dont place ball on red_17: 758553795560427544
+      Dont place ball on red_18: 8852822767148314255
+      Dont place ball on red_19: 7523779768693060504
+      Dont place ball on red_2: 4059268083583939795
+      Dont place ball on red_20: -4405434583510181940
+      Dont place ball on red_21: 613791342650504662
+      Dont place ball on red_22: -5079079156424946248
+      Dont place ball on red_23: 2876401133453062663
+      Dont place ball on red_24: -4793414961149195557
+      Dont place ball on red_25: -6690969962246973733
+      Dont place ball on red_26: 1442439405411942300
+      Dont place ball on red_27: -5927427212255275276
+      Dont place ball on red_28: 1630080003660990611
+      Dont place ball on red_29: -1305107255709005545
+      Dont place ball on red_3: -7712481126206380217
+      Dont place ball on red_30: -4049418623964510463
+      Dont place ball on red_4: -2057352544572191123
+      Dont place ball on red_5: -8033592001035647098
+      Dont place ball on red_6: 8960761611208952041
+      Dont place ball on red_7: -6875225498875273659
+      Dont place ball on red_8: -5823648770330644073
+      Dont place ball on red_9: 918155724185262520
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

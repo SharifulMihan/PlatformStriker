@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: 96d250430b045a1479b0bf4775cb471b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3211252114109866164
+    second: Use A and D to move_0
+  - first:
+      213: 5319922906436916021
+    second: Use A and D to move_1
+  - first:
+      213: 3785190273823988288
+    second: Use A and D to move_2
+  - first:
+      213: 496191447341828778
+    second: Use A and D to move_3
+  - first:
+      213: 1140293103261264893
+    second: Use A and D to move_4
+  - first:
+      213: 7737993800515614264
+    second: Use A and D to move_5
+  - first:
+      213: -119339064846227287
+    second: Use A and D to move_6
+  - first:
+      213: 3221876143369398019
+    second: Use A and D to move_7
+  - first:
+      213: 5609469499260972690
+    second: Use A and D to move_8
+  - first:
+      213: -1213140194616048656
+    second: Use A and D to move_9
+  - first:
+      213: 3557904672518569620
+    second: Use A and D to move_10
+  - first:
+      213: -6017917385092729799
+    second: Use A and D to move_11
+  - first:
+      213: -8966076519849784502
+    second: Use A and D to move_12
+  - first:
+      213: 3195970430307842498
+    second: Use A and D to move_13
+  - first:
+      213: 967336091664564792
+    second: Use A and D to move_14
+  - first:
+      213: -276425591044918163
+    second: Use A and D to move_15
+  - first:
+      213: 7848588733322657158
+    second: Use A and D to move_16
+  - first:
+      213: 7233687096763646350
+    second: Use A and D to move_17
+  - first:
+      213: 8877278095351215512
+    second: Use A and D to move_18
+  - first:
+      213: 8376358999662190942
+    second: Use A and D to move_19
+  - first:
+      213: -7490237859130370724
+    second: Use A and D to move_20
+  - first:
+      213: 8715380410185344774
+    second: Use A and D to move_21
+  - first:
+      213: 6070280721884025584
+    second: Use A and D to move_22
+  - first:
+      213: -6465769673169800394
+    second: Use A and D to move_23
+  - first:
+      213: -2662977230518960276
+    second: Use A and D to move_24
+  - first:
+      213: -8290840867284377218
+    second: Use A and D to move_25
+  - first:
+      213: -4984366504656143391
+    second: Use A and D to move_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Use A and D to move_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 93
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f524657375f63d0800000000000000
+      internalID: -3211252114109866164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 93
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533d2ae72b924d940800000000000000
+      internalID: 5319922906436916021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_2
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 93
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ada8ecf72b78430800000000000000
+      internalID: 3785190273823988288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 93
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa856f0e73d2e600800000000000000
+      internalID: 496191447341828778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 93
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb27bf298223df00800000000000000
+      internalID: 1140293103261264893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 93
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83678e92d50e26b60800000000000000
+      internalID: 7737993800515614264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 93
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a86308b0c5085ef0800000000000000
+      internalID: -119339064846227287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 93
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307a6db384766bc20800000000000000
+      internalID: 3221876143369398019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 93
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ea6d11ac6d8dd40800000000000000
+      internalID: 5609469499260972690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 93
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f38925ab6f0a2fe0800000000000000
+      internalID: -1213140194616048656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 93
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49efb26f277306130800000000000000
+      internalID: 3557904672518569620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 93
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93476e5c5001c7ca0800000000000000
+      internalID: -6017917385092729799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_12
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 93
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b0265d8e8129380800000000000000
+      internalID: -8966076519849784502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 93
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b6236c2e5a5c20800000000000000
+      internalID: 3195970430307842498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c41adc0bac6d00800000000000000
+      internalID: 967336091664564792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 51
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64b0f6b360f92cf0800000000000000
+      internalID: -276425591044918163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 44
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d74dd8ed9cbec60800000000000000
+      internalID: 7848588733322657158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 51
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818ceab618336460800000000000000
+      internalID: 7233687096763646350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_18
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 51
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895f3c5d46d623b70800000000000000
+      internalID: 8877278095351215512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_19
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 51
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e20e512ece3470800000000000000
+      internalID: 8376358999662190942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 51
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c551a532a545d0890800000000000000
+      internalID: -7490237859130370724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_21
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 51
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607ee779e4043f870800000000000000
+      internalID: 8715380410185344774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 44
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f29cc2a728fd3450800000000000000
+      internalID: 6070280721884025584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_23
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 69
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63378374db8f446a0800000000000000
+      internalID: -6465769673169800394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_24
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 51
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fb6f161543b0bd0800000000000000
+      internalID: -2662977230518960276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_25
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 51
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e712930782401fc80800000000000000
+      internalID: -8290840867284377218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Use A and D to move_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 44
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb7d938219f3dab0800000000000000
+      internalID: -4984366504656143391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Use A and D to move_0: -3211252114109866164
+      Use A and D to move_1: 5319922906436916021
+      Use A and D to move_10: 3557904672518569620
+      Use A and D to move_11: -6017917385092729799
+      Use A and D to move_12: -8966076519849784502
+      Use A and D to move_13: 3195970430307842498
+      Use A and D to move_14: 967336091664564792
+      Use A and D to move_15: -276425591044918163
+      Use A and D to move_16: 7848588733322657158
+      Use A and D to move_17: 7233687096763646350
+      Use A and D to move_18: 8877278095351215512
+      Use A and D to move_19: 8376358999662190942
+      Use A and D to move_2: 3785190273823988288
+      Use A and D to move_20: -7490237859130370724
+      Use A and D to move_21: 8715380410185344774
+      Use A and D to move_22: 6070280721884025584
+      Use A and D to move_23: -6465769673169800394
+      Use A and D to move_24: -2662977230518960276
+      Use A and D to move_25: -8290840867284377218
+      Use A and D to move_26: -4984366504656143391
+      Use A and D to move_3: 496191447341828778
+      Use A and D to move_4: 1140293103261264893
+      Use A and D to move_5: 7737993800515614264
+      Use A and D to move_6: -119339064846227287
+      Use A and D to move_7: 3221876143369398019
+      Use A and D to move_8: 5609469499260972690
+      Use A and D to move_9: -1213140194616048656
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

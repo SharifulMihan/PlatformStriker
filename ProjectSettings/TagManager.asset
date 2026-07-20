@@ -4,9 +4,12 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - Ground
   - Ball
-  - Flag
+  - Obstruction
+  - Ground
+  - Door
+  - Head
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -14,8 +17,8 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
+  - Restart
+  - Head
   - 
   - 
   - 
