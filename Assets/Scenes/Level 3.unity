@@ -5655,11 +5655,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5658470753693323029, guid: 726ddda4fe79ede4ba6ba02d885d9d36, type: 3}
       propertyPath: completeMessage
-      value: 
+      value: Congrats on completing Level 3!
       objectReference: {fileID: 0}
     - target: {fileID: 5658470753693323029, guid: 726ddda4fe79ede4ba6ba02d885d9d36, type: 3}
       propertyPath: nextLevelMessage
-      value: 
+      value: Level 4
       objectReference: {fileID: 0}
     - target: {fileID: 7293552080814959081, guid: 726ddda4fe79ede4ba6ba02d885d9d36, type: 3}
       propertyPath: m_LocalScale.x

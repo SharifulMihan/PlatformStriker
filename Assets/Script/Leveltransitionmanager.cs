@@ -113,8 +113,8 @@ public class LevelTransitionManager : MonoBehaviour
         IsTransitioning = true;
 
         // 1) "Level 1 Complete" slides in from the left.
-        outgoingText.text = completeMessage;
         outgoingPanel.gameObject.SetActive(true);
+        SetMessage(outgoingText, completeMessage);
         outgoingPanel.anchoredPosition = outgoingOffLeft;
         yield return Slide(outgoingPanel, outgoingOffLeft, outgoingRestPos);
         yield return new WaitForSecondsRealtime(completeHoldDuration);
@@ -126,8 +126,8 @@ public class LevelTransitionManager : MonoBehaviour
 
         // 3) Wipe: outgoing slides out right, incoming ("Level 2") slides in from
         //    the left, both moving in the same coroutine tick so they're in sync.
-        incomingText.text = nextLevelMessage;
         incomingPanel.gameObject.SetActive(true);
+        SetMessage(incomingText, nextLevelMessage);
         incomingPanel.anchoredPosition = incomingOffLeft;
         yield return SlideBoth(
             outgoingPanel, outgoingRestPos, outgoingOffRight,
@@ -150,6 +150,24 @@ public class LevelTransitionManager : MonoBehaviour
         if (newPlayer != null) newPlayer.movementLocked = false;
 
         IsTransitioning = false;
+    }
+
+    // Writes a panel's caption. The GameObject must already be active — assigning
+    // .text while it's still inactive can leave the mesh TMP baked at design time on
+    // screen, which is how a Level 2 door ended up showing "Congrats on completing
+    // Level 1!". ForceMeshUpdate makes that impossible even for a same-frame reveal.
+    // A blank message means the Door's inspector fields were never filled in; say so
+    // in the console instead of silently showing whatever the panel was authored with.
+    private void SetMessage(TMP_Text label, string message)
+    {
+        if (label == null) return;
+
+        if (string.IsNullOrWhiteSpace(message))
+            Debug.LogWarning($"[LevelTransitionManager] Empty transition message — check the Door's " +
+                             $"Complete Message / Next Level Message fields in scene '{SceneManager.GetActiveScene().name}'.", this);
+
+        label.text = message;
+        label.ForceMeshUpdate();
     }
 
     private IEnumerator Slide(RectTransform rect, Vector2 from, Vector2 to)

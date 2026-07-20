@@ -1414,11 +1414,11 @@ PrefabInstance:
       objectReference: {fileID: 1112313206}
     - target: {fileID: 5814945861859351283, guid: 8e6b85af4384bf64782287f132a9e1f6, type: 3}
       propertyPath: completeMessage
-      value: 
+      value: Congrats on completing Level 1!
       objectReference: {fileID: 0}
     - target: {fileID: 5814945861859351283, guid: 8e6b85af4384bf64782287f132a9e1f6, type: 3}
       propertyPath: nextLevelMessage
-      value: 
+      value: Level 2
       objectReference: {fileID: 0}
     - target: {fileID: 7395862125646220953, guid: 8e6b85af4384bf64782287f132a9e1f6, type: 3}
       propertyPath: m_Name
