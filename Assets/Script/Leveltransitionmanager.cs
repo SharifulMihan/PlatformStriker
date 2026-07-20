@@ -1,13 +1,12 @@
 using System.Collections;
 using UnityEngine;
-using UnityEngine.UI;
+using TMPro;
 using UnityEngine.SceneManagement;
 
 /// <summary>
 /// Persistent (DontDestroyOnLoad) singleton that owns the level-complete /
 /// level-intro UI and drives the whole transition:
-///   1) "Level 1 Complete" panel (an Image showing that level's sprite) slides in
-///      from the left, holds.
+///   1) "Level 1 Complete" panel slides in from the left, holds.
 ///   2) That panel slides out to the right while a "Level 2" panel slides in
 ///      from the left AT THE SAME TIME — a wipe — while the next scene loads
 ///      in the background.
@@ -31,12 +30,12 @@ public class LevelTransitionManager : MonoBehaviour
     public bool IsTransitioning { get; private set; }
 
     [Header("Panels")]
-    [Tooltip("Shown first — slides in from the left. Its Image's sprite is swapped per-door.")]
+    [Tooltip("Shown first — slides in from the left with the 'level complete' message.")]
     public RectTransform outgoingPanel;
-    public Image outgoingImage;
+    public TMP_Text outgoingText;
     [Tooltip("Slides in from the left as the outgoing panel slides out to the right.")]
     public RectTransform incomingPanel;
-    public Image incomingImage;
+    public TMP_Text incomingText;
 
     [Header("Timing")]
     public float slideDuration = 0.6f;
@@ -103,20 +102,18 @@ public class LevelTransitionManager : MonoBehaviour
         offRight = rest + Vector2.right * travel;
     }
 
-    /// <summary>Call from Door.cs once the level is complete. completeSprite is this level's
-    /// "Level N Complete" image, nextLevelSprite is the next level's intro image — both
-    /// supplied per-door so each scene shows its own artwork instead of a shared default.</summary>
-    public void CompleteLevel(Sprite completeSprite, string nextSceneName, Sprite nextLevelSprite)
+    /// <summary>Call from Door.cs once the level is complete.</summary>
+    public void CompleteLevel(string completeMessage, string nextSceneName, string nextLevelMessage)
     {
-        StartCoroutine(RunTransition(completeSprite, nextSceneName, nextLevelSprite));
+        StartCoroutine(RunTransition(completeMessage, nextSceneName, nextLevelMessage));
     }
 
-    private IEnumerator RunTransition(Sprite completeSprite, string nextSceneName, Sprite nextLevelSprite)
+    private IEnumerator RunTransition(string completeMessage, string nextSceneName, string nextLevelMessage)
     {
         IsTransitioning = true;
 
         // 1) "Level 1 Complete" slides in from the left.
-        SetSprite(outgoingImage, completeSprite);
+        outgoingText.text = completeMessage;
         outgoingPanel.gameObject.SetActive(true);
         outgoingPanel.anchoredPosition = outgoingOffLeft;
         yield return Slide(outgoingPanel, outgoingOffLeft, outgoingRestPos);
@@ -129,7 +126,7 @@ public class LevelTransitionManager : MonoBehaviour
 
         // 3) Wipe: outgoing slides out right, incoming ("Level 2") slides in from
         //    the left, both moving in the same coroutine tick so they're in sync.
-        SetSprite(incomingImage, nextLevelSprite);
+        incomingText.text = nextLevelMessage;
         incomingPanel.gameObject.SetActive(true);
         incomingPanel.anchoredPosition = incomingOffLeft;
         yield return SlideBoth(
@@ -153,20 +150,6 @@ public class LevelTransitionManager : MonoBehaviour
         if (newPlayer != null) newPlayer.movementLocked = false;
 
         IsTransitioning = false;
-    }
-
-    // A null sprite means the Door's inspector field was never assigned for this scene —
-    // warn instead of silently leaving whatever image was showing before.
-    private void SetSprite(Image image, Sprite sprite)
-    {
-        if (image == null) return;
-
-        if (sprite == null)
-            Debug.LogWarning($"[LevelTransitionManager] No sprite assigned — check the Door's " +
-                             $"Complete Sprite / Next Level Sprite fields in scene '{SceneManager.GetActiveScene().name}'.", this);
-
-        image.sprite = sprite;
-        image.enabled = sprite != null;
     }
 
     private IEnumerator Slide(RectTransform rect, Vector2 from, Vector2 to)

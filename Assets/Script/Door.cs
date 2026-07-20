@@ -12,11 +12,9 @@ public class Door : MonoBehaviour
     public PlayerController player;
 
     [Header("Level Complete")]
-    [Tooltip("Image shown first, e.g. a 'Level 1 Complete' graphic. Set per-scene on this door.")]
-    public Sprite completeSprite;
+    public string completeMessage = "Level 1 Complete";
     public string nextSceneName = "Level2";
-    [Tooltip("Image shown after the wipe, e.g. a 'Level 2' intro graphic. Set per-scene on this door.")]
-    public Sprite nextLevelSprite;
+    public string nextLevelMessage = "Level 2";
 
     private bool playerInZone;
     private bool ballInZone;
