@@ -1002,11 +1002,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5658470753693323029, guid: 726ddda4fe79ede4ba6ba02d885d9d36, type: 3}
       propertyPath: completeMessage
-      value: Congrats on completing Level 2!
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 5658470753693323029, guid: 726ddda4fe79ede4ba6ba02d885d9d36, type: 3}
       propertyPath: nextLevelMessage
-      value: Level 3
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 5978861345440992437, guid: 726ddda4fe79ede4ba6ba02d885d9d36, type: 3}
       propertyPath: m_Size.x
