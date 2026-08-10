@@ -4,17 +4,23 @@ using UnityEngine;
 /// Attach to the Door GameObject. Its Collider2D must have "Is Trigger" enabled.
 /// When the Player and the Ball are both inside the door's trigger at the same
 /// time, the level is complete: control locks, and LevelTransitionManager plays
-/// the "Level Complete" -> wipe -> "Level 2" -> reveal sequence before loading
-/// the next scene.
+/// the "Level Complete" -> wipe -> "Next Level Intro" -> reveal sequence before
+/// loading the next scene.
+///
+/// Images are per-door: assign THIS level's "Level N Complete" sprite and the
+/// NEXT level's intro sprite here in the Inspector, so every scene shows its
+/// own artwork instead of a shared/default image.
 /// </summary>
 public class Door : MonoBehaviour
 {
     public PlayerController player;
 
     [Header("Level Complete")]
-    public string completeMessage = "Level 1 Complete";
+    [Tooltip("This level's 'Level N Complete' image, shown first when the door triggers.")]
+    public Sprite completeSprite;
     public string nextSceneName = "Level2";
-    public string nextLevelMessage = "Level 2";
+    [Tooltip("The next level's intro image, shown after the wipe.")]
+    public Sprite nextLevelSprite;
 
     private bool playerInZone;
     private bool ballInZone;
@@ -53,7 +59,7 @@ public class Door : MonoBehaviour
 
         if (LevelTransitionManager.Instance != null)
         {
-            LevelTransitionManager.Instance.CompleteLevel(completeMessage, nextSceneName, nextLevelMessage);
+            LevelTransitionManager.Instance.CompleteLevel(completeSprite, nextSceneName, nextLevelSprite);
         }
     }
 }
